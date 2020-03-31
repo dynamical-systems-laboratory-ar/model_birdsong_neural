@@ -1,6 +1,7 @@
 //-------------------------------------------
 /*To compile this file:
-gcc ./period_2t3.c -lm -o ./period_2t3 && ./period_2t3
+gcc p0_syllables.c -lm -o p0_syllables
+(rk4.c file should be in the same folder)
 */
 //-------------------------------------------
 #include <stdio.h> 

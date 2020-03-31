@@ -1,6 +1,7 @@
 //-------------------------------------------
 /*To compile this file:
-gcc ./period_1.c -lm -o ./period_1 && ./period_1 
+gcc p1_syllables.c -lm -o p1_syllables
+(rk4.c file should be in the same folder)
 */
 //-------------------------------------------
 //-------------------------------------------
